@@ -32,7 +32,7 @@
   </licenses>
   <scm>
     <connection>scm:git:git://github.com/openengsb/openengsb-wrapped-csharp-Apache.log4net.git</connection>
-    <developerConnection>scm:git:git@github.com/openengsb/openengsb-wrapped-csharp-Apache.log4net.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:openengsb/openengsb-wrapped-csharp-Apache.log4net.git</developerConnection>
     <url>https://github.com/openengsb/openengsb-wrapped-csharp-Apache.log4net</url>
   </scm>
   <modelVersion>4.0.0</modelVersion>
