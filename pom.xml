@@ -18,7 +18,7 @@
   <parent>
     <groupId>org.openengsb</groupId>
     <artifactId>openengsb-root</artifactId>
-    <version>28</version>
+    <version>30</version>
   </parent>
   <name>OpenEngSB :: Maven Wrapped CSharp DLL :: Apache.log4net</name>
   <description>DLL wrapped</description>
@@ -36,8 +36,8 @@
   </scm>
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.openengsb.wrapped.csharp</groupId>
-  <artifactId>Apache.log4net</artifactId>
-  <version>1.2.11_2-SNAPSHOT</version>
+  <artifactId>log4net</artifactId>
+  <version>1.2.11_1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <build>
     <plugins>
